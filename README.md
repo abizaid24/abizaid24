@@ -8,11 +8,11 @@ Building scalable backend systems, AI-powered applications, and intelligent auto
 
 <p>
 <a href="mailto:hafizabizaid@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-hafizabizaid@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/abizaid24">
-<img src="https://img.shields.io/badge/GitHub-abizaid24-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-abizaid24-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -23,22 +23,17 @@ Building scalable backend systems, AI-powered applications, and intelligent auto
 
 # 💻 About Me
 
-I'm a Python Backend Developer passionate about building reliable, scalable, and AI-powered applications.
+I'm a **Python Backend Developer** passionate about building production-ready backend systems and AI-powered applications.
 
-My primary focus is backend engineering using **FastAPI**, designing clean REST APIs, integrating **Large Language Models (LLMs)**, and developing **Agentic AI** solutions.
-
-Currently exploring production-grade backend architecture, AI automation, and intelligent multi-agent systems.
+My expertise includes designing scalable REST APIs using **FastAPI**, integrating **Large Language Models (LLMs)**, and developing **Agentic AI** solutions with clean architecture and modern backend engineering practices.
 
 ---
 
 # 🚀 Tech Stack
 
-### Language
+### Backend Development
 
 - Python
-
-### Backend
-
 - FastAPI
 - REST APIs
 - SQLAlchemy
@@ -52,78 +47,68 @@ Currently exploring production-grade backend architecture, AI automation, and in
 - PostgreSQL
 - MongoDB
 
-### AI
+### AI Engineering
 
 - Agentic AI
 - LangChain
-- OpenAI Agents SDK
+- LangGraph
 - Google Gemini API
+- OpenAI Agents SDK
 - Prompt Engineering
 
-### Tools
+### Developer Tools
 
 - Git
 - GitHub
-- Postman
 - VS Code
+- Postman
 - Railway
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-## 🚀 TaskFlow AI
+## 🤖 AI & Agentic AI
 
-AI-powered productivity platform with authentication, task management, AI workflows, reminders, and scalable FastAPI backend.
+### 📄 CVision AI Resume Parser
 
-**Tech:** Python • FastAPI • MongoDB • JWT • Gemini API
+AI-powered resume parser using Large Language Models to extract and analyze candidate information.
 
----
+### 💼 AI Job Finding Agent
 
-## ✈️ AirLynk AI
+An autonomous AI agent that streamlines job discovery and application workflows using Agentic AI concepts.
 
-AI-powered airline platform featuring modular backend architecture, secure authentication, and scalable APIs.
+### 💬 AI Chatbot
 
-**Tech:** Python • FastAPI • PostgreSQL
-
----
-
-## 📄 CVision AI Resume Parser
-
-Resume parsing application powered by Large Language Models for intelligent information extraction.
-
-**Tech:** Python • LangChain • Streamlit • Gemini API
+Conversational AI assistant built using LangChain and modern LLM technologies.
 
 ---
 
-## 🛒 PrestigeWear Backend
+## ⚙️ Python Backend Systems
 
-Production-ready e-commerce backend with authentication, PostgreSQL, and REST APIs.
+### ✅ TaskFlow AI
 
-**Tech:** Python • FastAPI • PostgreSQL
+AI-powered productivity platform with authentication, task management, AI workflows, and scalable FastAPI backend.
 
----
+### 🛍 PrestigeWear Backend
 
-## 🤖 AI Job Finding Agent
+Production-ready e-commerce backend with authentication, product management, and PostgreSQL integration.
 
-An intelligent AI agent that automates job searching and application workflows using LLMs and agentic AI concepts.
+### 🍔 KhanayWala Backend
 
-**Tech:** Python • LangGraph • Mistral AI • FastAPI
-
----
-
-# 🎯 Current Focus
-
-- Agentic AI
-- AI Agents
-- FastAPI
-- Backend Architecture
-- LLM Integration
-- Scalable REST APIs
+Scalable REST API backend for an online food ordering platform.
 
 ---
 
-# 📈 GitHub Stats
+## 🌍 Full-Scale Products
+
+### ✈️ AirLynk AI
+
+AI-powered airline platform featuring modular backend architecture, authentication, and intelligent AI services.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -133,10 +118,6 @@ An intelligent AI agent that automates job searching and application workflows u
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=abizaid24&theme=github-dark&hide_border=true"/>
@@ -145,16 +126,16 @@ An intelligent AI agent that automates job searching and application workflows u
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 📧 **Email:** hafizabizaid@gmail.com
 
-📍 **Location:** Lahore, Pakistan
+📍 **Lahore, Pakistan**
 
 ---
 
 <div align="center">
 
-### ⭐ Building scalable backend systems with Python & Agentic AI.
+### ⭐ Building production-ready backend systems with Python, FastAPI & Agentic AI.
 
 </div>
