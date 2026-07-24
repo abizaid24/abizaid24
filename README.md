@@ -1,68 +1,80 @@
-# Hi there 👋 I'm Hafiz Abi Zaid
+<div align="center">
 
-### Python Backend Developer | FastAPI | Agentic AI
+# 👋 Hi, I'm Hafiz Abi Zaid
 
-I build scalable backend systems, AI-powered applications, and intelligent automation using Python.
+### Python Backend Developer • FastAPI • Agentic AI
 
-My primary focus is designing production-ready backend architectures with FastAPI, integrating Large Language Models (LLMs), and building reliable AI solutions that solve real-world problems.
+Building scalable backend systems, AI-powered applications, and intelligent automation using Python.
+
+<p>
+<a href="mailto:hafizabizaid@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/abizaid24">
+<img src="https://img.shields.io/badge/GitHub-abizaid24-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💻 About Me
 
-* 💻 Python Backend Developer with 1+ year of hands-on experience
-* 🤖 Currently focused on **Agentic AI** & **LLM-powered applications**
-* ⚡ Specialized in **FastAPI**, REST APIs, Authentication & Backend Architecture
-* 🗄️ Experienced with **PostgreSQL** & **MongoDB**
-* 🧠 Exploring AI Agents, Multi-Agent Systems & AI Automation
-* 📚 Continuously learning modern backend engineering and AI technologies
+I'm a Python Backend Developer passionate about building reliable, scalable, and AI-powered applications.
+
+My primary focus is backend engineering using **FastAPI**, designing clean REST APIs, integrating **Large Language Models (LLMs)**, and developing **Agentic AI** solutions.
+
+Currently exploring production-grade backend architecture, AI automation, and intelligent multi-agent systems.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+### Language
 
-* Python
+- Python
 
 ### Backend
 
-* FastAPI
-* REST APIs
-* SQLAlchemy
-* Alembic
-* Pydantic
-* JWT Authentication
-* OAuth
+- FastAPI
+- REST APIs
+- SQLAlchemy
+- Alembic
+- Pydantic
+- JWT Authentication
+- OAuth
 
 ### Databases
 
-* PostgreSQL
-* MongoDB
+- PostgreSQL
+- MongoDB
 
 ### AI
 
-* Agentic AI
-* LangChain
-* OpenAI Agents SDK
-* Google Gemini API
-* Prompt Engineering
+- Agentic AI
+- LangChain
+- OpenAI Agents SDK
+- Google Gemini API
+- Prompt Engineering
 
 ### Tools
 
-* Git
-* GitHub
-* Postman
-* Railway
-* VS Code
+- Git
+- GitHub
+- Postman
+- VS Code
+- Railway
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
-## 🧠 TaskFlow AI
+## 🚀 TaskFlow AI
 
-AI-powered productivity platform featuring authentication, task management, AI workflows, reminders, and scalable backend APIs.
+AI-powered productivity platform with authentication, task management, AI workflows, reminders, and scalable FastAPI backend.
 
 **Tech:** Python • FastAPI • MongoDB • JWT • Gemini API
 
@@ -70,7 +82,7 @@ AI-powered productivity platform featuring authentication, task management, AI w
 
 ## ✈️ AirLynk AI
 
-AI-powered airline platform with scalable backend architecture, authentication, and intelligent API services.
+AI-powered airline platform featuring modular backend architecture, secure authentication, and scalable APIs.
 
 **Tech:** Python • FastAPI • PostgreSQL
 
@@ -78,46 +90,71 @@ AI-powered airline platform with scalable backend architecture, authentication, 
 
 ## 📄 CVision AI Resume Parser
 
-Resume parsing application powered by Large Language Models for intelligent information extraction and resume analysis.
+Resume parsing application powered by Large Language Models for intelligent information extraction.
 
 **Tech:** Python • LangChain • Streamlit • Gemini API
 
 ---
 
-## 🛍 PrestigeWear Backend
+## 🛒 PrestigeWear Backend
 
-Production-oriented e-commerce backend with authentication, product management, and PostgreSQL integration.
+Production-ready e-commerce backend with authentication, PostgreSQL, and REST APIs.
 
 **Tech:** Python • FastAPI • PostgreSQL
 
 ---
 
-## 📈 AI Trading Assistant
+## 🤖 AI Job Finding Agent
 
-Backend services for an AI-powered trading assistant utilizing LLM integrations and intelligent workflows.
+An intelligent AI agent that automates job searching and application workflows using LLMs and agentic AI concepts.
 
-**Tech:** Python • FastAPI • Agentic AI
+**Tech:** Python • LangGraph • Mistral AI • FastAPI
 
 ---
 
 # 🎯 Current Focus
 
-* Agentic AI
-* AI Backend Systems
-* FastAPI
-* LLM Integration
-* AI Automation
-* Backend Architecture
-* Scalable APIs
+- Agentic AI
+- AI Agents
+- FastAPI
+- Backend Architecture
+- LLM Integration
+- Scalable REST APIs
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abizaid24&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abizaid24&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abizaid24&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** [hafizabizaid@gmail.com](mailto:hafizabizaid@gmail.com)
+📧 **Email:** hafizabizaid@gmail.com
 
-💻 **GitHub:** github.com/abizaid24
+📍 **Location:** Lahore, Pakistan
 
 ---
 
-> *"Building intelligent backend systems with Python, one project at a time."*
+<div align="center">
+
+### ⭐ Building scalable backend systems with Python & Agentic AI.
+
+</div>
