@@ -41,6 +41,8 @@ My expertise includes designing scalable REST APIs using **FastAPI**, integratin
 - Pydantic
 - JWT Authentication
 - OAuth
+- Docker
+- MCP
 
 ### Databases
 
