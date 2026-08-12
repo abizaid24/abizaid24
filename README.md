@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hafiz Abi Zaid
 
-### 🐍 Python Backend Developer • 🤖 Agentic AI Engineer • ⚡ Full-Stack AI Developer
+### 🐍 Python Backend Developer • 🤖 Agentic AI Engineer • ⚡ FastAPI
 
 Building **production-ready backend systems, AI-powered applications, intelligent agents, and complete full-stack products** using Python and modern AI technologies.
 
