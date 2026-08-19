@@ -224,6 +224,16 @@ The project covers the complete application flow from product management and aut
 
 ---
 
+# 🎓 Certifications
+
+### Claude Code 101 — Anthropic Academy
+
+Completed with a **score of 100%**. Covers Claude Code fundamentals including context window management, session memory across long sessions, and project-level configuration using `CLAUDE.md`.
+
+🔗 [Verify Certificate](https://anthropic.skilljar.com/claude-code-101)
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
