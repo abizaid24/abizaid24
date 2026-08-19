@@ -230,7 +230,7 @@ The project covers the complete application flow from product management and aut
 
 Completed with a **score of 100%**. Covers Claude Code fundamentals including context window management, session memory across long sessions, and project-level configuration using `CLAUDE.md`.
 
-[Verify Certificate](https://anthropic.skilljar.com/claude-code-101/469849)
+[Verify Certificate] (https://github.com/abizaid24/abizaid24/blob/1eb85fe1c112ba25d42cd9f85e5c579aa452826a/claude-code-101-certificate.pdf.pdf)
 
 ---
 
