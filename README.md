@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Hafiz Abi Zaid Babar
 
-### Agentic AI Engineer | Python Backend Developer | Gen AI & LLM Systems | FastAPI | RAG | REST APIs | PostgreSQL & MongoDB
+### Agentic AI Engineer | Python Backend Developer | Generative AI & LLM Systems | FastAPI | RAG | REST APIs | PostgreSQL & MongoDB
 
-Building **production-ready backend systems, AI-powered applications, intelligent agents, and complete full-stack products** using Python and modern AI technologies.
+Building **production-style AI products, AI-powered applications, intelligent agents, and complete full-stack products** using Python and modern AI technologies.
 
 <p>
 <a href="mailto:hafizabizaid@gmail.com">
@@ -22,14 +22,13 @@ Building **production-ready backend systems, AI-powered applications, intelligen
 
 # 💻 About Me
 
-I'm a **Python Backend Developer and AI Engineer** focused on building scalable backend architectures, AI-powered applications, intelligent automation systems, and complete full-stack products.
+I'm an Agentic AI Engineer and Python Backend Developer focused on building scalable backend systems, Generative AI applications, LLM-powered workflows, and intelligent agents.
 
-My core expertise includes **Python, FastAPI, REST APIs, databases, authentication, LLM integration, and Agentic AI**.
+My core expertise includes Python, FastAPI, REST APIs, PostgreSQL, MongoDB, LLM integration, RAG, Agentic AI, and Generative AI.
 
-Alongside backend engineering, I build the **frontend and complete user experience** of my applications, allowing me to develop AI-powered products from backend architecture to the final user interface.
+I build AI systems end-to-end — from backend architecture, APIs, authentication, databases, and AI orchestration to modern frontend applications.
 
-I enjoy transforming ideas into **real-world, production-style applications** with clean architecture, scalable APIs, modern UI, and intelligent AI workflows.
-
+I enjoy turning complex ideas into production-style AI products with clean architecture, reliable APIs, and intelligent tool-driven workflows.
 ---
 
 # 🚀 Tech Stack
