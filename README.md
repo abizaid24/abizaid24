@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hafiz Abi Zaid Babar
 
-### Agentic AI Engineer | Python Backend Developer | LLM Systems | FastAPI | RAG | REST APIs | PostgreSQL & MongoDB
+### Agentic AI Engineer | Python Backend Developer | Gen AI & LLM Systems | FastAPI | RAG | REST APIs | PostgreSQL & MongoDB
 
 Building **production-ready backend systems, AI-powered applications, intelligent agents, and complete full-stack products** using Python and modern AI technologies.
 
